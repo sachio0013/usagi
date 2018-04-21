@@ -8,7 +8,6 @@ import android.widget.ImageView;
 
 public class MainActivity extends AppCompatActivity {
 
-    //　卵が割れる数
     int usagiCount = 30;
 
     public void onUsagi (View v){
